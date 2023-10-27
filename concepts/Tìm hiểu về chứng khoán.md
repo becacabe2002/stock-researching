@@ -46,21 +46,32 @@
   * Là nơi chuyển đổi quyền sở hữu chứng khoán
 
 ### Các thành phần tham gia thị trường chứng khoán
-* Nhà phát hành:
+* _Nhà phát hành_:
   * Chính phủ và chính quyền địa phương: trái phiếu chính phủ và trái phiếu địa phương (rủi ro thấp)
   * Các công ty muốn huy động vốn: (rủi ro cao)
 
-* Nhà đầu tư:
+* _Nhà đầu tư_:
   * Nhà đầu tư cá nhân: chiếm số đông
   * Nhà đầu tư tổ chức: các định chế đầu tư chứng khoán với khối lượng lớn (ngân hàng, công ty tài chính, cty bảo hiểm, quỹ bảo hiểm xã hội...)
 
-* Môi giới trung gian:
+* _Môi giới trung gian_:
   * Công ty chứng khoán: môi giới mua và bán chứng khoán
   * Quỹ đầu tư chứng khoán: quỹ được hình thành từ việc góp vốn của các nhà đầu tư để đầu tư vào chứng khoán hoặc các hình thức đầu tư tài sản khác, nhưng vẫn chủ yếu vào chứng khoán. (các nhà đầu tư không có quyền kiểm soát hàng ngày đối với các quyết định đầu tư của quỹ)
     * Có sự tham gia của: Công ty quản lý quỹ, Ngân hàng giám sát, Công ty kiểm toán, Công ty luật
   * Trung gian tài chính: làm trung gian giữa người cung cấp vốn và người tham gia thị trường với các yêu cầu về vốn
 
-* Các tổ chức liên quan: các cơ quan quản lý đảm bảo những người tham gia thị trường chứng khoán tuân thủ các quy định
+* _Các tổ chức liên quan_: các cơ quan quản lý đảm bảo những người tham gia thị trường chứng khoán tuân thủ các quy định
   * Bộ Tài Chính -> Ủy ban chứng khoán nhà nước (SSC) -> Các sở giao dịch chứng khoán HOSE, HNX -> Trung tâm lưu ký chứng khoán (VSD)
   * Hiệp hội các kinh doanh chứng khoán, công ty đánh giá hệ số tín nhiệm, các tổ chức tài trợ chứng khoán ...
 
+### Các nguyên tắc vận hành thị trường chứng khoán
+* **Công khai**:
+  * mọi hoạt động được công bố rõ ràng, dưới sự giám sát của sở giao dịch chứng khoán.
+  * Các DN trên sàng phải công bố báo cáo tài chính cũng như thông tin của công ty.-> Giá cổ phiếu được thành lập công khai, không bị thao túng
+* **Trung gian**:
+  * Các việc mua bán chứng khoán đều được thực hiện thông qua trung gian là các công ty môi giới chứng khoán-> Tránh tình trạng các nhà đầu tư trực tiếp thỏa thuận giá cả với nhau
+* **Đấu giá**:
+  * Giá của chứng khoán được thành lập thông qua việc đấu giá công khai
+  * Người mua và người bán đặt lệnh với mức giá mong muốn
+    * Giá khớp nhau -> giao dịch
+    * Hệ thống ưu tiên khớp lệnh cho người đặt mua giá cao hơn
