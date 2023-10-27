@@ -31,7 +31,16 @@
 > _**Thị trường chứng khoán** là nơi tập hợp những người mua bán, giao dịch các loại chứng khoán, thường được tổ chức tại sở giao dịch chứng khoán hoặc thông qua các công ty môi giới chứng khoán._
 
 * Hai sàn giao dịch lớn nhất VN: HOSE (Sở  giao dịch chứng khoán TP HCM) và HNX (Sở giao dịch chứng khoán HN)
+
 * Thị trường chứng khoán có các thuộc tính:
   * **Tính thanh khoản**: có thể được chuyển đổi thành tiền mặt, thị trường càng phát triển thì tính thanh khoản càng cao.
   * **Tính sinh lời**: khả năng tạo thu nhập cho chủ sở hữu. Nguồn thu có thể đến từ việc chia cổ tức hoặc biến động giá chứng khoán.
   * **Tính rủi ro**: sở hữu, mua bán có thể làm giảm thu nhập của chủ sở hữu
+ 
+### Phân loại thị trường chứng khoán
+* **Thị trường chứng khoán sơ cấp** - nơi chứng khoán được phát hành lần đầu tiên (IPO), là nơi cung cấp vốn cho các nhà phát hành
+  * Phần lớn người mua của sàn sơ cấp là các tổ chức lớn hoặc quỹ đầu tư.
+
+* **Thị trường chứng khoán thứ cấp** - nơi giao dịch, trao đổi các loại chứng khoán đã được phát hành trên thị trường sơ cấp.
+  * Tạo thanh khoản cho chứng khoán
+  * Là nơi chuyển đổi quyền sở hữu chứng khoán
