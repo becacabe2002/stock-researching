@@ -75,34 +75,3 @@
   * Người mua và người bán đặt lệnh với mức giá mong muốn
     * Giá khớp nhau -> giao dịch
     * Hệ thống ưu tiên khớp lệnh cho người đặt mua giá cao hơn
-
-----
-> _**Đầu tư cổ phiếu** - hình thức mua đi bán lại các mã chứng khoán nhằm thu lợi nhuận dựa vào những thời điểm chênh lệch giá._
-> * Nếu nắm giữ số lượng cổ phiếu đủ lớn -> cổ đông nắm giữ cổ phần của công ty.
-
-## Phân loại cổ phiếu
-### Theo đối tượng sở hữu:
-* **Cổ phiếu ghi danh**: 
-  * Cổ phiếu ghi rõ tên người sở hữu.
-  * Việc chuyển nhượng cổ phiếu hình thức tương đối phức tạp
-
-* **Cổ phiếu vô danh**: 
-  * Cổ phiếu không ghi rõ tên người sở hữu.
-  * Có thể được chuyển nhượng tự do mà không cần hoàn thiện các thủ tục pháp lý liên quan.
-
-### Theo hình thức sở hữu:
-* **Cổ phiếu thường (Common Stock)**
-  * là loại cổ phiếu phổ biến nhất, được sở hữu bởi cổ đông phổ thông
-  * Đa phần các cổ phiếu được giao dịch trên thị trường
-  * Xác nhần quyền sở hữu của cổ đông đối với một phần vốn của công ty.
-  * Chủ sở hữu có đầy đu quyền như nhận cổ tức và được can thiệp vào các hoạt động kinh doanh
-
-* **Cổ phiếu ưu đãi (Preferred Stock)**
-  * Cổ phiếu mang lại ưu đãi cho người sở hữu.
-  * Có các loại cổ phiếu ưu đãi:
-    * _Cổ phiếu ưu đãi thông thường_ - nhà đầu tư nhận được ưu đãi như nhận thêm cổ tức, có nhiều quyền biểu quyết hơn.
-    * _Cổ phiếu ưu đãi tích lũy_ - đảm bảo số lượng cổ tức mà cổ đông được nhận. Nếu công ty không thể trả đủ cổ tức cho cổ đông -> sẽ được cộng dồn và trả bù
-    * _Cổ phiếu ưu đãi tham dự_ - chủ sỡ hữu nhận thêm cổ tức khi doanh nghiệp đạt hiệu quả kinh doanh tốt.
-    * _Cổ phiếu ưu đãi có thể mua lại_ - cổ phiếu mà doanh nghiệp có thể mua lại từ nhà đầu tư bất kỳ lúc nào
-    * _Cổ phiếu ưu đãi có thể chuyển đổi_ - cho phép người sở hữu chuyển đổi cổ phiếu ưu đãi đang nắm giữ sang loại cổ phiếu khác
-
