@@ -2,8 +2,6 @@
 
 > _**Chứng khoán** là công cụ tài chính đại diện cho quyền sở hữu hoặc khoảng nợ trong một công ty hoặc tổ chức chính phủ._
 
-----
-
 * Chứng khoán bao gồm cổ phiếu, chứng chỉ quỹ, chứng khoán phái sinh, trái phiếu, chứng quyền có bảo đảm ...
 
 * Thường được hiển thị dưới dạng 1 đoạn mã (ticker symbol/stock symbol), và chỉ có 1 tên gọi duy nhất cho 1 loại chứng khoán
@@ -32,4 +30,8 @@
 
 > _**Thị trường chứng khoán** là nơi tập hợp những người mua bán, giao dịch các loại chứng khoán, thường được tổ chức tại sở giao dịch chứng khoán hoặc thông qua các công ty môi giới chứng khoán._
 
-----
+* Hai sàn giao dịch lớn nhất VN: HOSE (Sở  giao dịch chứng khoán TP HCM) và HNX (Sở giao dịch chứng khoán HN)
+* Thị trường chứng khoán có các thuộc tính:
+  * **Tính thanh khoản**: có thể được chuyển đổi thành tiền mặt, thị trường càng phát triển thì tính thanh khoản càng cao.
+  * **Tính sinh lời**: khả năng tạo thu nhập cho chủ sở hữu. Nguồn thu có thể đến từ việc chia cổ tức hoặc biến động giá chứng khoán.
+  * **Tính rủi ro**: sở hữu, mua bán có thể làm giảm thu nhập của chủ sở hữu
