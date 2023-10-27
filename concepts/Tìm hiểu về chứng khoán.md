@@ -44,3 +44,23 @@
 * **Thị trường chứng khoán thứ cấp** - nơi giao dịch, trao đổi các loại chứng khoán đã được phát hành trên thị trường sơ cấp.
   * Tạo thanh khoản cho chứng khoán
   * Là nơi chuyển đổi quyền sở hữu chứng khoán
+
+### Các thành phần tham gia thị trường chứng khoán
+* Nhà phát hành:
+  * Chính phủ và chính quyền địa phương: trái phiếu chính phủ và trái phiếu địa phương (rủi ro thấp)
+  * Các công ty muốn huy động vốn: (rủi ro cao)
+
+* Nhà đầu tư:
+  * Nhà đầu tư cá nhân: chiếm số đông
+  * Nhà đầu tư tổ chức: các định chế đầu tư chứng khoán với khối lượng lớn (ngân hàng, công ty tài chính, cty bảo hiểm, quỹ bảo hiểm xã hội...)
+
+* Môi giới trung gian:
+  * Công ty chứng khoán: môi giới mua và bán chứng khoán
+  * Quỹ đầu tư chứng khoán: quỹ được hình thành từ việc góp vốn của các nhà đầu tư để đầu tư vào chứng khoán hoặc các hình thức đầu tư tài sản khác, nhưng vẫn chủ yếu vào chứng khoán. (các nhà đầu tư không có quyền kiểm soát hàng ngày đối với các quyết định đầu tư của quỹ)
+    * Có sự tham gia của: Công ty quản lý quỹ, Ngân hàng giám sát, Công ty kiểm toán, Công ty luật
+  * Trung gian tài chính: làm trung gian giữa người cung cấp vốn và người tham gia thị trường với các yêu cầu về vốn
+
+* Các tổ chức liên quan: các cơ quan quản lý đảm bảo những người tham gia thị trường chứng khoán tuân thủ các quy định
+  * Bộ Tài Chính -> Ủy ban chứng khoán nhà nước (SSC) -> Các sở giao dịch chứng khoán HOSE, HNX -> Trung tâm lưu ký chứng khoán (VSD)
+  * Hiệp hội các kinh doanh chứng khoán, công ty đánh giá hệ số tín nhiệm, các tổ chức tài trợ chứng khoán ...
+
