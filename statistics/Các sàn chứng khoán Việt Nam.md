@@ -24,6 +24,13 @@ _Hiện tại ở Việt Nam, có 3 sàn chứng khoán chính là HoSE, HNX và
 
 ### Sàn giao dịch chứng khoán TP HCM (HoSE)
 * Là sàn chứng khoán lớn nhất Việt Nam, được thành lập từ 2000
+
 * Có mã chứng khoán `VN30`
   * Tham chiếu theo 30 công ty lớn nhất trên thị trường chứng khoán
-  * Là mã có giá trị nhất thị trường.
+  * Là mã có giá trị nhất thị trường, mức độ an toàn cao, khả năng tăng trưởng đều.
+
+* Các giao dịch chứng khoán trên sàn HoSE diễn ra từ 9h - 15h (t2 - t6)
+  * 15p đầu là **Phiên khớp lệnh giá mở cửa trong ngày (ATO)**: dựa vào khối lượng mua và bán, giá mở cửa sẽ được xác định bởi giá mà tại đó số lượng người mua và người bán gặp nhau là nhiều nhất
+  * Phiên cuối cùng là **Phiên khớp lệnh giá đóng cửa (ATC)**
+
+**CÁC ĐIỀU KIỆN ĐỂ 1 DOANH NGHIỆP NIÊM YẾT TRÊN HOSE**
