@@ -24,4 +24,5 @@ _Ex: bạn đặt lệnh MP để mua 3000 cổ phiếu A. Tại thời điểm 
 * 80.000 đồng – khối lượng 500 cổ phiếu
 * 80.100 đồng – khối lượng 2000 cổ phiếu
 * 80.200 đồng – khối lượng 3000 cổ phiếu
+
 _Nếu bạn đặt mua 3000 cổ phiếu A, thì 500 cổ phiếu đầu tiên sẽ khớp lệnh với giá 80.000/1 cổ phiếu, 2000 cổ phiếu tiếp theo sẽ khớp lệnh với giá 80.1000/1 cổ phiếu; 500 cổ phiếu còn lại sẽ khớp lệnh với giá 80.200/1 cổ phiếu._
