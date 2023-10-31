@@ -11,3 +11,5 @@
 ### 2. Lệnh giới hạn/Lệnh chờ (LO)
 * Cho phép nhà đầu tư mua hoặc bán chứng khoán với mức giá xác định.
 * Nếu giá cổ phiếu không thỏa mãn lệnh đã đặt, giao dịch sẽ không diễn ra.
+
+_Ex: cổ phiếu A đang ở mức 20.000đ, bạn đặt lệnh mua với giá 19.000đ. Nếu có người bán cổ phiếu này với giá nhỏ hơn hoặc bằng 19.000đ, lệnh của bạn sẽ được khớp. Ngược lại, nếu giá vẫn ở mức 20.000đ hoặc cao hơn thì sẽ không có giao dịch nào cả._
