@@ -34,3 +34,12 @@ _Hiện tại ở Việt Nam, có 3 sàn chứng khoán chính là HoSE, HNX và
   * Phiên cuối cùng là **Phiên khớp lệnh giá đóng cửa (ATC)**
 
 **CÁC ĐIỀU KIỆN ĐỂ 1 DOANH NGHIỆP NIÊM YẾT TRÊN HOSE**
+* Vốn điều lệ: >= 120 tỷ VNĐ tính theo báo cáo kiểm toán tại thời điểm đăng ký.
+
+* Thời gian và tình hình hoạt động của cty:
+  * hoạt động ít nhất 02 năm dưới hình thức cty cổ phần
+  * kết quả hoạt động 2 năm liền trước năm đk niêm yết phải có lãi
+  * Tỷ suất lợi nhuận trên vốn chủ sỡ hữu >= 5%
+  * không có nợ quá hạn > 01 năm tính tới thời điểm đk niêm yết
+  * không có lỗ lũy kế tại thời điểm đăng ký niêm yết
+
