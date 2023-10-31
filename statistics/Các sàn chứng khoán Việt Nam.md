@@ -70,3 +70,8 @@ _Hiện tại ở Việt Nam, có 3 sàn chứng khoán chính là HoSE, HNX và
 * Các cổ đông lớn, tổ chức, cá nhân cam kết nắm giữ 100% số cổ phiếu trong vòng 6 tháng đầu và 50% số cổ phiếu trong 6 tháng tiếp theo (ngoại trừ cổ phiếu sở hữu bởi Nhà Nước)
 
 * Cổ phiếu của doanh nghiệp đã đưọc giao dịch trên sàn UPCOM ít nhất 2 năm
+
+### Sàn giao dịch UPCOM
+* diễn ra giao dịch chứng khoán của những mã cổ phiếu ko đủ tiêu chuẩn cho HNX/HoSE
+* Ra đời 2009, được quản lý bởi sở giao dịch chứng khoán HN.
+* Việc gia nhập UPCOM đơn giản và không có nhiều quy định, vậy nên rủi ro cũng sẽ cao hơn hai sàn còn lại.
