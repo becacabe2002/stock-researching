@@ -43,3 +43,30 @@ _Hiện tại ở Việt Nam, có 3 sàn chứng khoán chính là HoSE, HNX và
   * không có nợ quá hạn > 01 năm tính tới thời điểm đk niêm yết
   * không có lỗ lũy kế tại thời điểm đăng ký niêm yết
 
+* Cơ cấu cổ đông: >= 20% cổ phiếu có quyền biểu quyết được nắm giữ bởi ít nhất 300 cổ đông không phải cổ đông lớn
+
+* Các cổ đông lớn, tổ chức, cá nhân cam kết nắm giữ 100% số cổ phiếu trong vòng 6 tháng đầu và 50% số cổ phiếu trong 6 tháng tiếp theo (ngoại trừ cổ phiếu sở hữu bởi Nhà Nước)
+
+* Cổ phiếu của doanh nghiệp đã đưọc giao dịch trên sàn UPCOM ít nhất 2 năm
+
+### Sàn giao dịch HN (HNX)
+* Chính thức hoạt động từ 2009
+* Chịu trách nhiệm tổ chức, quản lý các tài sản chứng khoán
+* Không có ATO mà chỉ có ATC, tuy nhiên sẽ có thêm phiên khớp lệnh sau giờ nhằm đảm bảo tính thanh khoản của thị trường.
+* Các doanh nghiệp không phải công khai các khoản nợ đối với các cổ động lớn, hội đồng quản trị ... (trái ngược với HoSE)
+
+**CÁC ĐIỀU KIỆN ĐỂ 1 DOANH NGHIỆP NIÊM YẾT TRÊN HNX**
+* Vốn điều lệ: >= 30 tỷ VNĐ tính theo báo cáo kiểm toán tại thời điểm đăng ký.
+
+* Thời gian và tình hình hoạt động của cty:
+  * hoạt động ít nhất 01 năm dưới hình thức cty cổ phần
+  * kết quả hoạt động năm liền trước năm đk niêm yết phải có lãi
+  * Tỷ suất lợi nhuận trên vốn chủ sỡ hữu >= 5%
+  * không có nợ quá hạn > 01 năm tính tới thời điểm đk niêm yết
+  * không thuộc trường vi phạm pháp luật hay có các vi phạm về kế toán hay báo cáo tài chính.
+
+* Cơ cấu cổ đông: >= 15% cổ phiếu có quyền biểu quyết được nắm giữ bởi ít nhất 100 cổ đông không phải cổ đông lớn
+
+* Các cổ đông lớn, tổ chức, cá nhân cam kết nắm giữ 100% số cổ phiếu trong vòng 6 tháng đầu và 50% số cổ phiếu trong 6 tháng tiếp theo (ngoại trừ cổ phiếu sở hữu bởi Nhà Nước)
+
+* Cổ phiếu của doanh nghiệp đã đưọc giao dịch trên sàn UPCOM ít nhất 2 năm
