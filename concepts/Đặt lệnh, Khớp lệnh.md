@@ -42,7 +42,7 @@ _Nếu bạn đặt mua 3000 cổ phiếu A, thì 500 cổ phiếu đầu tiên 
  * Phổ biến với thị trường phái sinh
 
 ## 6. Lệnh giao dịch tại mức giá khớp lệnh xác định giá đóng cửa (ATC)
-* Đặt mua hoặc bán chứng khoán với mức giá đóng cửa, chỉ có hiệu lực tại phiên ATC
+* Đặt mua hoặc bán chứng khoán với mức giá đóng cửa, chỉ có hiệu lực tại phiên ATC (14h30 - 14h45)
 * Giá được xác định thông qua các lệnh LO được đặt. (Nếu chỉ có lệnh ATC tại sổ lệnh thì phiên ATC không xác định được giá đóng cửa.)
 * Lệnh ATC sẽ được ưu tiên khớp lệnh hơn so với lệnh LO.
 * Hệ thống sẽ tự động hủy đối với những phần không được khớp của lệnh ATC trong phiên.
