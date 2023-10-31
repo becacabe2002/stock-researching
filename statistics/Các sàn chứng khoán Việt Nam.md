@@ -20,3 +20,10 @@
 * Những biến động về giá chứng khoán trên sàn phản ánh rõ nhất khuynh hướng phát triển chung của nền kinh tế của một đất nước.
 
 ## Các sàn giao dịch chứng khoán lớn nhất tại VN
+_Hiện tại ở Việt Nam, có 3 sàn chứng khoán chính là HoSE, HNX và UPCOM trực thuộc 2 Sở chứng khoán Hà Nội và Hồ Chí Minh. Cuối năm 2021, Sở giao dịch chứng khoán Việt Nam (Vietnam Stock Exchange) được ra mắt để sáp nhập hai sở._
+
+### Sàn giao dịch chứng khoán TP HCM (HoSE)
+* Là sàn chứng khoán lớn nhất Việt Nam, được thành lập từ 2000
+* Có mã chứng khoán `VN30`
+  * Tham chiếu theo 30 công ty lớn nhất trên thị trường chứng khoán
+  * Là mã có giá trị nhất thị trường.
