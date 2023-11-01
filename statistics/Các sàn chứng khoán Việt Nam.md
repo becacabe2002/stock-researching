@@ -75,3 +75,14 @@ _Hiện tại ở Việt Nam, có 3 sàn chứng khoán chính là HoSE, HNX và
 * diễn ra giao dịch chứng khoán của những mã cổ phiếu ko đủ tiêu chuẩn cho HNX/HoSE
 * Ra đời 2009, được quản lý bởi sở giao dịch chứng khoán HN.
 * Việc gia nhập UPCOM đơn giản và không có nhiều quy định, vậy nên rủi ro cũng sẽ cao hơn hai sàn còn lại.
+
+**Những ưu điểm của UPCOM**:
+* Hoạt động công khai, có tính minh bạch và có cam kết về mức độ an toàn, uy tín cho khách hàng tham gia. (uy tín hơn sàn CTO, thị trường phi tập trung)
+* Các nhà đầu tư có thể tiếp cận được nhiều doanh nghiệp tiềm năng nhưng chưa được niêm yết các sàn HoSE và HNX.
+* Tạo đòn bẩy cho các doanh nghiệp có thể niêm yết trên sàn HoSE hoặc HNX
+
+**Những nhược điểm của UPCOM**:
+* Tính rủi ro cao, tính thanh khoản thấp -> không phù hợp với những nhà đầu tư mới.
+* Nhiều mã không còn được giao dịch, hạn chế trong lựa chọn mã chứng khoán
+* Biên độ dao động lớn -> rủi ro khi đầu tư dài hạn.
+
