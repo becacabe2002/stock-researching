@@ -93,3 +93,7 @@ Ví dụ: khi lệnh mua 300 cổ phiếu và 100 cổ phiếu của cùng một
 
 ### Các loại khớp lệnh
 * 2 loại: **Khớp lệnh định kỳ** và **Khớp lệnh liên tục**
+
+#### Khớp lệnh định kỳ
+* Được thực hiện dựa trên cơ sở lệnh mua và lệnh bán khớp lại với nhau tại 1 thời điểm xác định, khi đó giá khớp lệnh và khối lượng chứng khoán được giao dịch là lớn nhất.
+* Hiện nay, các sàn thường sử dụng khớp lệnh định kỳ để xác định giá khớp lệnh mở cửa, và  giá khớp lệnh đóng cửa.
