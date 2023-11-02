@@ -114,4 +114,4 @@ Ví dụ: khi lệnh mua 300 cổ phiếu và 100 cổ phiếu của cùng một
   * Trong TH khối lượng lệnh vẫn còn sau khi xét và không thể khớp lệnh được nữa, hệ thống chuyển thành lệnh chờ LO (lệnh mua với giá niêm yết đầu tiên trên sàn chứng khoán)
 
 
-![Khung thời gian khớp lệnh](https://vietcap.com.vn/api/cms-api/uploads/froala/images/khop-lenh.jpg)
+![Khung thời gian khớp lệnh](/res/khop-lenh.jpg)
