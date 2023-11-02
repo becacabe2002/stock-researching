@@ -86,3 +86,11 @@ _Hiện tại ở Việt Nam, có 3 sàn chứng khoán chính là HoSE, HNX và
 * Nhiều mã không còn được giao dịch, hạn chế trong lựa chọn mã chứng khoán
 * Biên độ dao động lớn -> rủi ro khi đầu tư dài hạn.
 
+> _**Các chỉ số ghi nhận tới 30/6/2023**_
+> * Mức vốn hóa thị trường cổ phiếu trên 3 sàn HoSE, HNX và UPCoM: **5.783 nghìn tỷ**
+> * 42 doanh nghiệp có mức vốn hóa trên 1 tỷ $
+> * 1600 doanh nghiệp niêm yết trên các sàn chứng khoán
+>   * HoSE: 403
+>   * HNX: 332
+>   * UPCoM: 865
+
