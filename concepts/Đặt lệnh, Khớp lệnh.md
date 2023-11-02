@@ -100,3 +100,8 @@ Ví dụ: khi lệnh mua 300 cổ phiếu và 100 cổ phiếu của cùng một
 
 * Giá khớp lệnh định kì là giá được thực hiện có khối lượng giao dịch đạt đỉnh. Trong trường hợp có nhiều mức giá thỏa mãn thì ta lấy giá trùng khớp hoặc gần nhất với giá thực hiện trong lần khớp lệnh gần nhất.
 
+* Ưu tiên về giá, ưu tiên về thời gian.
+
+#### Khớp lệnh liên tục
+
+
