@@ -96,12 +96,22 @@ Ví dụ: khi lệnh mua 300 cổ phiếu và 100 cổ phiếu của cùng một
 
 #### Khớp lệnh định kỳ
 * Được thực hiện dựa trên cơ sở lệnh mua và lệnh bán khớp lại với nhau tại 1 thời điểm xác định, khi đó giá khớp lệnh và khối lượng chứng khoán được giao dịch là lớn nhất.
+
 * Hiện nay, các sàn thường sử dụng khớp lệnh định kỳ để xác định giá khớp lệnh mở cửa, và  giá khớp lệnh đóng cửa.
+
+* Các lệnh được áp dụng: ATO/ATC (ưu tiên hơn) và LO
 
 * Giá khớp lệnh định kì là giá được thực hiện có khối lượng giao dịch đạt đỉnh. Trong trường hợp có nhiều mức giá thỏa mãn thì ta lấy giá trùng khớp hoặc gần nhất với giá thực hiện trong lần khớp lệnh gần nhất.
 
-* Ưu tiên về giá, ưu tiên về thời gian.
+* Ưu tiên về giá trước, sau đó mới tới ưu tiên về thời gian.
 
 #### Khớp lệnh liên tục
+* Được thực hiện dựa trên cơ sở khác nhau của lệnh mua và bán ngay khi các lệnh đó được nhập trên hệ thống giao dịch.
+
+* Các lệnh được áp dụng: MP(HNX) và LO
+  * MP mua cổ phiếu ở mức thấp nhất hoặc bán ở mức giá cao nhất trên thị trường. 
+  * Nếu chưa thực hiện hết khối lượng đặt lệnh thị trường thì lệnh thị trường sẽ xét tiếp mức giá bán cao hơn đối với lệnh mua cổ phiếu. Đối với lệnh bán cổ phiếu, xét mức giá mua thấp hơn.
+  * Trong TH khối lượng lệnh vẫn còn sau khi xét và không thể khớp lệnh được nữa, hệ thống chuyển thành lệnh chờ LO (lệnh mua với giá niêm yết đầu tiên trên sàn chứng khoán)
 
 
+![Khung thời gian khớp lệnh](https://vietcap.com.vn/api/cms-api/uploads/froala/images/khop-lenh.jpg)
