@@ -36,20 +36,60 @@ _Nếu bạn đặt mua 3000 cổ phiếu A, thì 500 cổ phiếu đầu tiên 
    * **Lệnh MOK**: lệnh bị hủy trên hệ thống ngay sau khi nhập nếu không thể khớp lệnh toàn bộ.
    * **Lệnh MTL**: lệnh có thể được thực hiện toàn bộ hoặc 1 phần, phần còn lại của các lệnh sẽ trở thành lệnh LO
  
- ## 5. Lệnh chờ (Lệnh điều kiện)
- * Lệnh có điều kiện kèm theo khi đặt lệnh, sẽ ở trạng thái chờ và chỉ đẩy ra thị trường khi thỏa mãn các điều kiện trước.
- * Cho phép nhà đầu tư dễ dàng mua/bán ở mức giá mục tiêu định trước.
- * Phổ biến với thị trường phái sinh
+### 5. Lệnh chờ (Lệnh điều kiện)
+* Lệnh có điều kiện kèm theo khi đặt lệnh, sẽ ở trạng thái chờ và chỉ đẩy ra thị trường khi thỏa mãn các điều kiện trước.
+* Cho phép nhà đầu tư dễ dàng mua/bán ở mức giá mục tiêu định trước.
+* Phổ biến với thị trường phái sinh
+* Có 4 loại lệnh điều kiện:
+   * Lệnh `TCO` - lệnh điều kiện với thời gian
+   * Lệnh `PRO` - lệnh tranh mua hoặc tranh bán
+   * Lệnh `ST` - lệnh dừng
+   * Lệnh `TS` - lệnh xu hướng  
 
-## 6. Lệnh giao dịch tại mức giá khớp lệnh xác định giá đóng cửa (ATC)
+### 6. Lệnh giao dịch tại mức giá khớp lệnh xác định giá đóng cửa (ATC)
 * Đặt mua hoặc bán chứng khoán với mức giá đóng cửa, chỉ có hiệu lực tại phiên ATC (14h30 - 14h45)
 * Giá được xác định thông qua các lệnh LO được đặt. (Nếu chỉ có lệnh ATC tại sổ lệnh thì phiên ATC không xác định được giá đóng cửa.)
 * Lệnh ATC sẽ được ưu tiên khớp lệnh hơn so với lệnh LO.
 * Hệ thống sẽ tự động hủy đối với những phần không được khớp của lệnh ATC trong phiên.
 
-## 7. Lệnh giao dịch khớp lệnh sau giờ (PLO)
+### 7. Lệnh giao dịch khớp lệnh sau giờ (PLO)
 * Lệnh hạn mức dùng để mua hoặc bán chứng khoán trong phiên giao dịch ngoài giờ.
 * Giá đặt lệnh PLO là giá đóng cửa của phiên giao dịch ngày hôm đó.
 * Sẽ được đặt trong khung h 14h45 - 15h00
   * Lệnh đã vào hệ thống thì không thể hủy, sửa
   * Sẽ được khớp ngay lập tức khi có lệnh tương ứng.  
+
+---
+> _**Khớp lệnh** - quá trình mà một sàn chứng khoán ghép một hoặc nhiều lệnh mua tự nguyện với một hoặc nhiều lệnh bán để thực hiện giao dịch._
+
+* Là quá trình xác định và thực hiện giao dịch giữa các yêu cầu bằng nhau và trái ngược nhau đối với một chứng khoán. (mua/bán cùng 1 mức giá)
+
+### Các nguyên tắc khi thực hiện khớp lệnh
+* Ưu tiên về giá:
+  * Có mức giá tốt hơn (mua cao hơn hoặc bán thấp hơn) sẽ được ưu tiên trước
+
+* Ưu tiên về thời gian
+  * Nếu nhiều lệnh có cùng giá, lệnh được đặt trước (hoặc được gửi trước) sẽ được ưu tiên.
+
+* Ưu tiên khách hàng
+  * Lệnh của khách hàng cá nhân (cả người mua và người bán) sẽ được ưu tiên hơn lệnh của các nhà giao dịch chuyên nguyện hoặc các quỹ đầu tư lớn
+
+* Ưu tiên khối lượng
+  * Nếu nhiều lệnh cùng giá, thì lệnh với số lượng lớn hơn sẽ được ưu tiên.
+
+### Quá trình khớp lệnh
+* Là trách nhiệm của các chuyên gia thị trường và nhà cung cấp chứng khoán trên thị trường.
+
+* Các lệnh mua và bán là tương thích nếu giá tối đa của lệnh mua vượt qua hoặc bằng giá tối thiểu của lệnh bán.
+
+* Hệ thống khớp lệnh hoạt động nhanh chóng và chính xác để tối đa hóa khối lượng giao dịch cũng như giúp nhà đầu tư đạt được mức giá lý tưởng.
+
+* FIFO và Pro - rata (Theo tỷ lệ) là hai thuật toán phổ biến nhất để khớp lệnh
+  * FIFO: các lệnh mua có cùng mức giá tối đa được ưu tiên dựa vào thời điểm đặt giá (ưu tiên cho lệnh mua đầu tiên), đồng thời cũng ưu tiên hơn so với các lệnh mua ở mức giá thấp hơn
+  * Pro - rata: ưu tiên cho lệnh mua có giá cao nhất, các lệnh mua có cùng mức giá cao nhất được khớp tương ứng với kích cỡ lệnh.
+
+_Ex:
+Ví dụ: khi lệnh mua 300 cổ phiếu và 100 cổ phiếu của cùng một chứng khoán đang hoạt động trong hệ thống đồng thời một lệnh bán tương thích gồm 300 cổ phiếu được kích hoạt lệnh bán sẽ không thể thực hiện cả hai lệnh mua. Thuật toán Pro - rata sẽ khớp 225 cổ phiếu với lệnh mua 300 cổ phiếu và 75 cổ phiếu với lệnh mua 100 cổ phiếu. Do đó cả hai lệnh mua đều được lấp đầy một phần._
+
+### Các loại khớp lệnh
+* 2 loại: **Khớp lệnh định kỳ** và **Khớp lệnh liên tục**
